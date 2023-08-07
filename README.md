@@ -19,7 +19,7 @@ Here's a simple guide on how to consume the Thread-Safe Queue library in your pr
 Import the library using the path where the library is hosted:
 
 ```go
-import "github.com/yourusername/queue"
+import "github.com/sandeepkv93/thread-safe-queue/queue"
 ```
 
 ### Creating a New Queue

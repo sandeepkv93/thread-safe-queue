@@ -1,5 +1,5 @@
-// Package queue provides a thread-safe queue implementation.
-package queue
+// Package threadsafequeue provides a thread-safe queue implementation.
+package threadsafequeue
 
 import (
 	"sync"

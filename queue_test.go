@@ -1,4 +1,4 @@
-package queue
+package threadsafequeue
 
 import (
 	"sync/atomic"

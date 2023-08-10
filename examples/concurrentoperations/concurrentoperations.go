@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sandeepkv93/thread-safe-queue/queue"
+	queue "github.com/sandeepkv93/threadsafequeue"
 )
 
 func main() {

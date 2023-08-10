@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sandeepkv93/thread-safe-queue/queue"
+	queue "github.com/sandeepkv93/threadsafequeue"
 )
 
 func producer(q *queue.ThreadSafeQueue) {

@@ -7,7 +7,7 @@ This Go library provides a simple and efficient implementation of a thread-safe 
 To install the Thread-Safe Queue library, you can run:
 
 ```shell
-go get github.com/sandeepkv93/thread-safe-queue
+go get github.com/sandeepkv93/threadsafequeue
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ Here's a simple guide on how to consume the Thread-Safe Queue library in your pr
 Import the library using the path where the library is hosted:
 
 ```go
-import "github.com/sandeepkv93/thread-safe-queue/queue"
+import queue "github.com/sandeepkv93/threadsafequeue"
 ```
 
 ### Creating a New Queue
